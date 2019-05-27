@@ -6,7 +6,7 @@
         nuxtstatic
       </h1>
       <h2 class="subtitle">
-        My funkadelic Nuxt.js project
+        Welcome to my project ! - I am proud of it !
       </h2>
       <div class="links">
         <a
